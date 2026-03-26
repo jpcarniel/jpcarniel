@@ -1,12 +1,10 @@
-**QA Engineer** | Test Automation | Porto Alegre, Brazil
+**Junior QA** · Test Automation | Porto Alegre, Brazil
 
-Degree in Systems Analysis and Development, with 10+ years of experience in
-people management before transitioning into tech. I've worked across front-end,
-back-end, and UX/UI, which gives me a broader view of where software fails
-and how users actually experience bugs.
-
-I use AI as part of my QA workflow to speed up test writing, bug analysis,
-and documentation, while keeping the critical thinking on my side.
+I come from 10+ years in IT consulting, management and sales, and now I'm
+moving into QA. I studied Systems Analysis, built landing pages and SPAs
+along the way, and that dev experience helps me understand what's under the
+hood when I'm testing. Currently focused on test automation with Cypress,
+Playwright and API testing.
 
 ---
 
@@ -37,5 +35,6 @@ and documentation, while keeping the critical thinking on my side.
 
 ---
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ed145b?style=flat&logo=vercel&logoColor=white)](https://jpcarniel.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jpcarniel)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carnielfonseca@gmail.com)

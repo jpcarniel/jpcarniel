@@ -1,10 +1,6 @@
 **Junior QA** · Test Automation | Porto Alegre, Brazil
 
-I come from 10+ years in IT consulting, management and sales, and now I'm
-moving into QA. I studied Systems Analysis, built landing pages and SPAs
-along the way, and that dev experience helps me understand what's under the
-hood when I'm testing. Currently focused on test automation with Cypress,
-Playwright and API testing.
+QA Engineer with a background in operations management, technical consulting and a Systems Analysis degree. Focus on test automation with Playwright (Node.js/TypeScript and Python), Cypress and API testing.
 
 ---
 

@@ -1,4 +1,4 @@
-**QA ENgineer** · Test Automation | Porto Alegre, Brazil
+**QA Engineer** · Test Automation | Porto Alegre, Brazil
 
 QA Engineer with a background in operations management, technical consulting and a Systems Analysis degree. Focus on test automation with Playwright (Node.js/TypeScript and Python), Cypress and API testing.
 
